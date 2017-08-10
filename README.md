@@ -26,3 +26,6 @@ In case you don't have `~/.jupyter/jupyter_notebook_config.py` file, run this fi
 ```shell
 jupyter notebook --generate-config
 ```
+
+### Reference
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
